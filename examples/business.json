@@ -1,0 +1,49 @@
+{
+  "examples": [
+    {
+      "id": "business-startup",
+      "problem": "Starting a business in an uncertain economic climate",
+      "context": "I have a unique product idea that solves a real problem, but market conditions are turbulent. Traditional market research shows mixed signals, and several peers have suggested waiting for more stable conditions. Initial investment would require significant personal financial risk.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.8
+      }
+    },
+    {
+      "id": "product-pivot",
+      "problem": "Deciding whether to pivot a struggling product",
+      "context": "Our product has been in market for 6 months with underwhelming adoption (15% below projections). Customer feedback is mixed—some users love specific features while others find the overall value proposition unclear. We have runway for another 9 months, and pivoting would require 3-4 months of development.",
+      "suggested_parameters": {
+        "instinctRatio": 0.6,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "investment-decision",
+      "problem": "Investing in an unproven technology startup",
+      "context": "I'm considering investing a significant portion of available capital in a startup using a novel technology approach. Their team is impressive, but they have no revenue yet. Their approach contradicts conventional wisdom in the industry but could potentially disrupt it. Two traditional companies are working on similar problems with proven methods.",
+      "suggested_parameters": {
+        "instinctRatio": 0.8,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "market-expansion",
+      "problem": "Expanding into a new international market",
+      "context": "Our company has been successful in our home market, and we're considering expansion into a region with different cultural norms and business practices. Market research indicates potential, but we have no presence or connections there yet. It would require significant investment in localization and establishing new partnerships.",
+      "suggested_parameters": {
+        "instinctRatio": 0.5,
+        "perseveranceFactor": 0.6
+      }
+    },
+    {
+      "id": "hiring-decision",
+      "problem": "Hiring a highly unconventional but promising candidate",
+      "context": "We're considering hiring someone whose background and approach differ significantly from our typical employees. They lack some traditional qualifications but show exceptional creativity and problem-solving skills in their portfolio. Our team culture is currently stable and productive but might benefit from fresh perspectives.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.5
+      }
+    }
+  ]
+}
