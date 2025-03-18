@@ -1,0 +1,49 @@
+{
+  "examples": [
+    {
+      "id": "creative-novel",
+      "problem": "Continuing a novel that has received mixed early feedback",
+      "context": "I'm working on a speculative fiction novel and have shared the first five chapters with a writing group. Feedback has been mixed - some readers love the unique premise and worldbuilding but find the pacing slow, while others think the characters need more development. I've already invested a year in this project and believe in its potential, but I'm questioning whether to continue, start a major revision, or shelve it for a new project.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.8
+      }
+    },
+    {
+      "id": "creative-film",
+      "problem": "Deciding whether to pursue an unconventional film project",
+      "context": "I've written a screenplay for an experimental film that blends documentary and narrative techniques. Traditional production companies have passed on it, saying it's too niche and commercially risky. I could self-fund on a minimal budget, but this would require significant personal financial investment. Industry peers are divided - some think it could be a breakthrough, others think the concept is too abstract for audiences.",
+      "suggested_parameters": {
+        "instinctRatio": 0.8,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "creative-music",
+      "problem": "Choosing between commercial success and artistic vision for a music album",
+      "context": "I'm working on my next music album. My previous work was moderately successful, but I feel creatively drawn to explore a very different sound and theme that diverges significantly from what my audience expects. Early demos shared with my label received hesitant responses, suggesting I might lose my current audience. However, these new songs feel more authentic and meaningful to me as an artist.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.6
+      }
+    },
+    {
+      "id": "creative-design",
+      "problem": "Developing a radical new design approach for a client",
+      "context": "I'm a designer working with a long-term client who usually prefers conservative approaches. I've developed a radically different concept for their new product that I believe could significantly differentiate them in the market, but it contradicts their established design language. My team is divided on whether to present this concept or create something more aligned with their expectations. The client has mentioned wanting 'fresh ideas' but has rejected bold concepts in the past.",
+      "suggested_parameters": {
+        "instinctRatio": 0.6,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "creative-game",
+      "problem": "Continuing development of an innovative but challenging game concept",
+      "context": "I'm an indie game developer working on a game with unique mechanics that don't fit neatly into established genres. Early prototype testing showed players were initially confused by the unconventional gameplay, though some became enthusiastic once they understood it. Development has taken longer than expected, and I'm concerned about market reception. I could simplify the concept to make it more accessible or stay true to the original vision despite the risks.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.8
+      }
+    }
+  ]
+}
