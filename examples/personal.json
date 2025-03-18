@@ -1,0 +1,49 @@
+{
+  "examples": [
+    {
+      "id": "personal-career",
+      "problem": "Changing careers to pursue a passion despite financial uncertainty",
+      "context": "I've worked in corporate finance for 12 years and have built a stable career with good compensation. However, I've always been passionate about sustainable agriculture and have been studying it in my spare time for the past three years. I'm considering leaving my job to work at a sustainable farm, which would mean a 70% reduction in salary initially. My savings could support me for about 18 months, but there's no guarantee I'll be financially stable after that period. This change would align with my values but creates significant uncertainty in my life trajectory.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.8
+      }
+    },
+    {
+      "id": "personal-relocation",
+      "problem": "Relocating to a new country for personal growth",
+      "context": "I'm considering moving to a new country where I don't speak the language fluently and don't have an established professional network. The move would provide significant cultural experiences and personal growth opportunities that I deeply value. I would need to rebuild my career in an unfamiliar professional environment, likely taking a step back initially. Friends and family have expressed concerns about the practicality of this decision, though I feel drawn to the challenge and possibility of a different life path.",
+      "suggested_parameters": {
+        "instinctRatio": 0.8,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "personal-education",
+      "problem": "Returning to education mid-career",
+      "context": "After 15 years in my field, I'm considering returning to school full-time for a graduate degree in a related but different discipline. This would require leaving my job, using a significant portion of my savings, and potentially rebuilding my career afterward. The new knowledge could open different opportunities, but there's no guarantee of improved career prospects or compensation. My current role is stable but no longer intellectually satisfying, while the academic program deeply interests me but creates uncertainty.",
+      "suggested_parameters": {
+        "instinctRatio": 0.6,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "personal-project",
+      "problem": "Committing to a long-term personal creative project",
+      "context": "I'm considering dedicating significant time (15-20 hours weekly) to a creative project that would take approximately two years to complete. This would mean reducing social activities and possibly shifting to part-time work. The project has personal significance but no guaranteed external validation or success. Several friends have suggested that the sacrifice might not be worth it, while others are supportive but concerned about the potential impact on my well-being and financial stability.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "personal-relationship",
+      "problem": "Pursuing a long-distance relationship with uncertain outcome",
+      "context": "I've met someone I connect with deeply, but they live in another country. We're considering committing to a long-distance relationship that would involve costly travel, time zone challenges, and potential immigration complications in the future. We've only spent three weeks together in person, though we've communicated daily for six months. Friends are concerned the relationship doesn't have enough foundation for such significant investment and potential life changes, but I feel this connection is unique and worth exploring despite the uncertainties.",
+      "suggested_parameters": {
+        "instinctRatio": 0.8,
+        "perseveranceFactor": 0.6
+      }
+    }
+  ]
+}
