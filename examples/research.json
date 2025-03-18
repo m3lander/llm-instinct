@@ -1,0 +1,49 @@
+{
+  "examples": [
+    {
+      "id": "research-direction",
+      "problem": "Pursuing a new research direction that contradicts established theories",
+      "context": "I'm a researcher who has identified potential flaws in a widely-accepted theory in my field. My preliminary data suggests an alternative explanation that contradicts twenty years of established research. Publishing this could significantly impact my reputation—positively if correct, but potentially damaging if flawed. Senior colleagues have advised caution, suggesting more data collection before challenging the consensus, which would delay publication by at least two years.",
+      "suggested_parameters": {
+        "instinctRatio": 0.7,
+        "perseveranceFactor": 0.8
+      }
+    },
+    {
+      "id": "research-funding",
+      "problem": "Deciding whether to pursue high-risk research with limited funding",
+      "context": "I've conceptualized a potentially groundbreaking research project in a new interdisciplinary area. Traditional funding sources have rejected it as too speculative, citing limited preliminary data. I could self-fund initial experiments with personal resources to generate preliminary data, but this would be financially straining and might still not guarantee future grants. Alternatively, I could modify the project to be less ambitious and more aligned with current funding priorities.",
+      "suggested_parameters": {
+        "instinctRatio": 0.8,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "research-collaboration",
+      "problem": "Pursuing a controversial collaboration across disciplines",
+      "context": "I've identified a potential collaboration with researchers in a field quite distant from my own that could yield novel insights for both disciplines. However, such cross-disciplinary work is viewed skeptically in my traditional department, and could affect tenure consideration. The methodology would blend approaches in ways that might face resistance from journal reviewers in both fields. Early discussions with potential collaborators have been exciting but highlighted significant challenges in reconciling different research paradigms.",
+      "suggested_parameters": {
+        "instinctRatio": 0.6,
+        "perseveranceFactor": 0.7
+      }
+    },
+    {
+      "id": "research-application",
+      "problem": "Moving from theoretical to applied research",
+      "context": "I've spent my career in theoretical research but have recently developed ideas with significant practical applications. Transitioning to applied research would require new skills, different publication venues, and building relationships with industry partners. My department values theoretical contributions more highly for promotion. However, I believe the applied direction could have more real-world impact and potentially access different funding sources. Initial attempts to bridge these worlds have met with mixed reception from both academic and industry colleagues.",
+      "suggested_parameters": {
+        "instinctRatio": 0.5,
+        "perseveranceFactor": 0.6
+      }
+    },
+    {
+      "id": "research-paradigm",
+      "problem": "Challenging a fundamental paradigm in my field",
+      "context": "Through years of research, I've developed a framework that fundamentally challenges how we conceptualize a core process in my field. This isn't just an incremental improvement but would require rethinking basic assumptions. Senior colleagues have suggested that while interesting, such paradigm-shifting work rarely succeeds and could isolate me academically. Early conference presentations received polarized responses—intense interest from some researchers and dismissal from others. Developing this work fully would require dedicating several years with uncertain outcomes.",
+      "suggested_parameters": {
+        "instinctRatio": 0.8,
+        "perseveranceFactor": 0.9
+      }
+    }
+  ]
+}
